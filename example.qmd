@@ -10,4 +10,4 @@ This is an example Quarto document for Assignment 2.
 
 ## New Analysis Section
 
-This section was added on the main branch and has different content.
+This section was added on the `testbranch` for demonstrating branching.
